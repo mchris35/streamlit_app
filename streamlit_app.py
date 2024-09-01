@@ -6,7 +6,7 @@ st.title("Welcome to Chris Marklen's Autobiography & Portfolio")
 
 st.header("Autobiography")
 
-st.image(r"C:\backupfiles\Pics\2x2.jpg", width=200)
+st.image("2x2.jpg", width=200)
 
 st.write("""
 Hello! I am **Chris Marklen A. Fernandez**. 
